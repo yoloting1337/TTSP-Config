@@ -1,1 +1,3 @@
-# TTSP-Config
+# ```TTSP-Config```
+
+```Config - TTSP --> Socket.cfg```
